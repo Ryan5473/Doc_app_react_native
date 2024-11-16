@@ -31,8 +31,9 @@
 ### Backend :
 - **Node.js** et **Express** pour une gestion performante des API.
 
-### Base de données :
-- **MongoDB** pour organiser les données des utilisateurs, articles, et produits.
+### Bases de données :
+- **Async Storage** pour stocker localement les données de l'utilisateur sur l'appareil.
+- **MongoDB** pour organiser et gérer les données des utilisateurs, articles, et produits.
 
 ---
 
